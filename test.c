@@ -6,6 +6,6 @@
 
 int main()
 {
-    printf("hello world\n");
+    printf("hello conflict ...\n");
     return(0);
 }
