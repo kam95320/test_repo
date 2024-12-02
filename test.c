@@ -6,6 +6,7 @@
 
 int main()
 {
-    printf("hello conflict ...\n");
+    int info = 0;
+    printf("hello conflict %d ...\n", info);
     return(0);
 }
